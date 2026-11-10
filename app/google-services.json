@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974711225062",
+    "project_id": "seluna-proyecto",
+    "storage_bucket": "seluna-proyecto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974711225062:android:f7528bdddc33624681d927",
+        "android_client_info": {
+          "package_name": "me.andresdavid.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6g9izgFbGRTH0cUw3YMvhM0ZFXyY7ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
